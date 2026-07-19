@@ -50,7 +50,7 @@ Permite registrar las cuatro calificaciones de una cantidad determinada de estud
 
 ### Evidencia
 
-![Caso 1](capturas/caso1.png)
+![Caso 1](capturas/caso11.png)
 
 ---
 
@@ -71,7 +71,7 @@ Permite registrar las cuatro calificaciones de una cantidad determinada de estud
 
 ### Evidencia
 
-![Caso 2](capturas/caso2.png)
+![Caso 2](capturas/caso22.png)
 
 ---
 
@@ -109,7 +109,7 @@ Permite registrar las cuatro calificaciones de una cantidad determinada de estud
 
 ### Evidencia
 
-![Caso 3](capturas/caso3.png)
+![Caso 3](capturas/caso33.png)
 
 ---
 
@@ -130,7 +130,7 @@ Permite registrar las cuatro calificaciones de una cantidad determinada de estud
 
 ### Evidencia
 
-![Caso 4](capturas/caso4.png)
+![Caso 4](capturas/caso44.png)
 
 ---
 
